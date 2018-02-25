@@ -1,7 +1,7 @@
 # CamDesign
 ##Design tool for Cam
-Author: Maxwell Oven\<br> 
-Data: 2018 Feb.25\<br> 
+Author: Maxwell Oven<br> 
+Data: 2018 Feb.25<br> 
 
 main window
 ![image](https://github.com/maxwell12138/CamDesign/blob/master/images/1_mainwindow.jpg)
