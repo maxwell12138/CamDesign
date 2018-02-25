@@ -37,6 +37,7 @@ FORMS    += mainwindow.ui \
 
 DISTFILES += \
     res.rc
-RC_FILE+=res.rc
+RC_FILE+=CamDesign.rc \
+        res.rc
 RESOURCES += \
     res.qrc
